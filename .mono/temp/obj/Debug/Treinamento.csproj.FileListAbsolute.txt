@@ -1,0 +1,9 @@
+D:\Workspace\Treinamento\.mono\temp\obj\Debug\Treinamento.csproj.AssemblyReference.cache
+D:\Workspace\Treinamento\.mono\temp\obj\Debug\Treinamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Treinamento\.mono\temp\obj\Debug\Treinamento.AssemblyInfoInputs.cache
+D:\Workspace\Treinamento\.mono\temp\obj\Debug\Treinamento.AssemblyInfo.cs
+D:\Workspace\Treinamento\.mono\temp\obj\Debug\Treinamento.csproj.CoreCompileInputs.cache
+D:\Workspace\Treinamento\.mono\temp\bin\Debug\Treinamento.dll
+D:\Workspace\Treinamento\.mono\temp\bin\Debug\Treinamento.pdb
+D:\Workspace\Treinamento\.mono\temp\obj\Debug\Treinamento.dll
+D:\Workspace\Treinamento\.mono\temp\obj\Debug\Treinamento.pdb
